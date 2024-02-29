@@ -1,2 +1,12 @@
-# daily-notes
+## daily-notes
 daily activity notes on course dicoding indonesia | React &amp; BE
+
+**29 Februari 2024:**
+* Menyelesaikan submission Dasar Pemrograman Web.
+* Memulai Dasar Pemrograman JavaScript (Destructuring Object)
+
+
+**Sumber Daya:**
+
+* [Materi Pembelajaran Dicoding](https://www.dicoding.com/academies)
+* [Dokumentasi ReactJS](https://reactjs.org/)
