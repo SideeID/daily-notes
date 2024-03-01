@@ -5,6 +5,8 @@ daily activity notes on course dicoding indonesia | React &amp; BE
 * Menyelesaikan submission Dasar Pemrograman Web.
 * Memulai Dasar Pemrograman JavaScript (Destructuring Object)
 
+**1 Maret 2024**
+* Melanjutkan Dasar Pemrograman JavaScript (Function)
 
 **Sumber Daya:**
 
