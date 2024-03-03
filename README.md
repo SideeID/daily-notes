@@ -11,6 +11,9 @@ daily activity notes on course dicoding indonesia | React &amp; BE
 **2 Maret 2024**
 * LIburr dulu, mau main game :V
 
+**3 Maret 2024**
+* Mau nonton anime dulu :v
+
 **Sumber Daya:**
 
 * [Materi Pembelajaran Dicoding](https://www.dicoding.com/academies)
