@@ -15,7 +15,7 @@ daily activity notes on course dicoding indonesia | React &amp; BE
 
 * Mau nonton anime dulu :v
 **4 Maret 2024**
-* Melanjutkan Dasar Pemrograman JavaScript ()
+* Melanjutkan Dasar Pemrograman JavaScript (Module)
 
 **Sumber Daya:**
 
