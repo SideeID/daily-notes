@@ -12,7 +12,10 @@ daily activity notes on course dicoding indonesia | React &amp; BE
 * LIburr dulu, mau main game :V
 
 **3 Maret 2024**
+
 * Mau nonton anime dulu :v
+**4 Maret 2024**
+* Melanjutkan Dasar Pemrograman JavaScript ()
 
 **Sumber Daya:**
 
