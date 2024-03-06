@@ -20,6 +20,9 @@ daily activity notes on course dicoding indonesia | React &amp; BE
 **5 Maret 2024**
 * Sesi kunsultasi mingguan
 
+**6 Maret 2024**
+* Melanjutkan Dasar Pemrograman JavaScript (error)
+
 **Sumber Daya:**
 
 * [Materi Pembelajaran Dicoding](https://www.dicoding.com/academies)
