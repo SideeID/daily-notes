@@ -23,6 +23,9 @@ daily activity notes on course dicoding indonesia | React &amp; BE
 **6 Maret 2024**
 * Melanjutkan Dasar Pemrograman JavaScript (error)
 
+**7 Maret 2024**
+* Melanjutkan Dasar Pemrograman JavaScript (async/await)
+
 **Sumber Daya:**
 
 * [Materi Pembelajaran Dicoding](https://www.dicoding.com/academies)
