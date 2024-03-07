@@ -25,6 +25,8 @@ daily activity notes on course dicoding indonesia | React &amp; BE
 
 **7 Maret 2024**
 * Melanjutkan Dasar Pemrograman JavaScript (async/await)
+* Menyelesaikan modul Dasar Pemrograman JavaScript
+* memulia modul FE web untuk pemula
 
 **Sumber Daya:**
 
