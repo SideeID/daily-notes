@@ -31,6 +31,9 @@ daily activity notes on course dicoding indonesia | React &amp; BE
 **8 Maret 2024**
 * Melanjutkan modul FE web untuk pemula(DOM)
 
+**9 Maret 2024**
+* Melanjutkan modul FE web untuk pemula(handler)
+
 **Sumber Daya:**
 
 * [Materi Pembelajaran Dicoding](https://www.dicoding.com/academies)
