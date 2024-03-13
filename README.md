@@ -43,6 +43,9 @@ daily activity notes on course dicoding indonesia | React &amp; BE
 **12 Maret 2024**
 * Melanjutkan modul FE web Untk pemula()
 
+**13 Maret 2024**
+* Membuat Todo Apps
+
 **Sumber Daya:**
 
 * [Materi Pembelajaran Dicoding](https://www.dicoding.com/academies)
