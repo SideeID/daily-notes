@@ -45,6 +45,7 @@ daily activity notes on course dicoding indonesia | React &amp; BE
 
 **13 Maret 2024**
 * Membuat Todo Apps
+* Melanjutkan modul FE web untuk pemula(local storage)
 
 **Sumber Daya:**
 
