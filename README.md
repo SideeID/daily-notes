@@ -47,6 +47,10 @@ daily activity notes on course dicoding indonesia | React &amp; BE
 * Membuat Todo Apps
 * Melanjutkan modul FE web untuk pemula(local storage)
 
+**14 Maret 2024**
+* Melanjutkan modul FE web untuk pemula(web storage)
+
+
 **Sumber Daya:**
 
 * [Materi Pembelajaran Dicoding](https://www.dicoding.com/academies)
