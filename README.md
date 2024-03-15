@@ -50,6 +50,9 @@ daily activity notes on course dicoding indonesia | React &amp; BE
 **14 Maret 2024**
 * Melanjutkan modul FE web untuk pemula(web storage)
 
+**15 Maret 2024**
+* Melanjutkan modul FE web untuk pemula(web storage)
+
 
 **Sumber Daya:**
 
