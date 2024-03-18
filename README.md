@@ -56,6 +56,12 @@ daily activity notes on course dicoding indonesia | React &amp; BE
 **16 Maret 2024**
 * Mengerjakan submission
 
+**17 Maret 2024**
+* Mengerjakan Submission
+
+**18 Maret 2024**
+* Mengerjakan Submission
+
 
 **Sumber Daya:**
 
