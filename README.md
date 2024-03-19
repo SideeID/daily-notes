@@ -62,6 +62,9 @@ daily activity notes on course dicoding indonesia | React &amp; BE
 **18 Maret 2024**
 * Mengerjakan Submission
 
+**19 Maret 2024**
+* Memulai modul react
+
 
 **Sumber Daya:**
 
