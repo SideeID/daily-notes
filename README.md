@@ -71,6 +71,9 @@ daily activity notes on course dicoding indonesia | React &amp; BE
 **21 Maret 2024**
 * Memulai Modul Fundamental React
 
+**22 Maret 2024**
+* Libur
+
 
 **Sumber Daya:**
 
